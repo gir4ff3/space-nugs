@@ -1,0 +1,1 @@
+global.invincibility = 0;
